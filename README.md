@@ -1,4 +1,4 @@
-🧠 NLP Project
+🧠 NLP 
 
 This repository contains a simple and efficient Natural Language Processing (NLP) workflow for processing and analyzing text data. It includes text preprocessing, tokenization, feature extraction, and model training using machine learning and deep learning techniques. The project demonstrates how raw text is converted into meaningful insights through models like TF-IDF, Word Embeddings, LSTM, and transformer-based methods.
 
